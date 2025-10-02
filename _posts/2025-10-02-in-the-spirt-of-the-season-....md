@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "In the Spirt of the Season..."
+date: 2025-10-02-14:15
+categories: artificial intelligence
+tags: story comparision spooky
 ---
 
 Why not have a good old fashioned spook off between OpenAIs ChatGPT and Proton's Luma's chat bots?

@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Welcome to My Portfilio"
+date: 2025-10-02-14:10
+categories: projects
+tags: documentation technical-writing tutorials
 ---
 
 Since you're here why not check out some of my techincal writing samples? My portfilio includes:

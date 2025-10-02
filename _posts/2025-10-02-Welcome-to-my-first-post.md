@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Welcome to My First Post"
+date: 2025-10-02-14:05
+categories: developer log
+tag: illustrations visuals features
 ---
 
 Hello World! I thought I would kick things off by sharing some of the svgs that 
