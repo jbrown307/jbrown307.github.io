@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-02T15:24:56-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jordan Brown’s Blog</title><subtitle>This is just a learning project to help me learn the ins-and-outs of Jekyll. Not much to see here but thanks for visting!</subtitle><entry><title type="html">In the Spirt of the Season…</title><link href="http://localhost:4000/artificial-intelligence/in-the-spirt-of-the-season/" rel="alternate" type="text/html" title="In the Spirt of the Season…" /><published>2025-10-02T14:15:00-04:00</published><updated>2025-10-02T14:15:00-04:00</updated><id>http://localhost:4000/artificial-intelligence/in-the-spirt-of-the-season-</id><content type="html" xml:base="http://localhost:4000/artificial-intelligence/in-the-spirt-of-the-season/"><![CDATA[<h1 id="in-the-spirt-of-the-season">In the Spirt of the Season…</h1>
+<p>Why not have a good old fashioned spook off between OpenAIs ChatGPT and Proton’s Luma’s chat bots?</p>
+
+<p><i>Here’s a scary story brought to you by none other than ChatGPT!</i></p>
+
+<p><strong>The Reflection</strong></p>
+
+<p>It started with the mirror.</p>
+
+<p>Lena had just moved into her new apartment—a creaky, drafty place that smelled faintly of dust and something older. The previous tenant had left behind only one thing: a tall, antique mirror bolted to the bedroom wall. The glass was slightly warped, the silver backing faded in places like time had tried to erase it.</p>
+
+<p>The first night, Lena swore she saw someone standing behind her. She turned, but no one was there.</p>
+
+<p>The second night, the reflection smiled back at her—even though her own face remained still.</p>
+
+<p>She told herself it was stress, sleep deprivation, maybe the lingering effects of too much caffeine. But every night, the mirror grew stranger. Her reflection would move a second too slow, blink when she didn’t, or turn its head ever so slightly while she stood still.</p>
+
+<p>On the seventh night, Lena covered the mirror with a bedsheet.</p>
+
+<p>But the next morning, the sheet was on the floor… and there was a handprint on the glass—smudged, pale, and far too large to be hers.</p>
+
+<p>She decided to leave. She packed in a frenzy, avoiding the bedroom entirely. As she walked past the hallway mirror to grab her keys, she froze.</p>
+
+<p>Her reflection was smiling again.</p>
+
+<p>Only this time… she wasn’t standing in front of it.</p>
+
+<p><i>And here’s another bone chiller from Luma:</i></p>
+
+<p><strong>The Lighthouse</strong></p>
+
+<p>Here’s a brief, spine‑tingling tale—just under 200 words—perfect for a blog post that wants to send shivers down readers’ spines:</p>
+
+<p>The old lighthouse had stood abandoned for decades, its lantern long since darkened, its stone walls weathered by relentless sea spray. Locals whispered that on stormy nights the beacon still flickered—not with light, but with a cold, blue flame that seemed to breathe.</p>
+
+<p>One night, Mara, a freelance photographer chasing the perfect storm shot, drove the winding coastal road toward the lighthouse. Rain hammered the windshield, and thunder rolled like distant drums. She parked at the rusted gate, heart thudding, and stepped into the damp air.</p>
+
+<p>Inside, the spiral staircase creaked under her weight. As she ascended, a faint humming resonated from the lantern room—a mournful lullaby that grew louder with each step. Reaching the top, she found the glass dome shattered, yet a thin veil of mist swirled within, coalescing into a shape that resembled a woman in a tattered dress.</p>
+
+<p>The apparition turned, eyes hollow and glowing with that same eerie blue. “You shouldn’t have come,” she whispered, voice echoing like wind through the cracks. Before Mara could react, the mist surged, wrapping around her like icy fingers. The last thing she saw was the lighthouse’s long‑forgotten beam flare to life, casting a ghostly glow over the endless sea.</p>
+
+<p>When the storm cleared, the lighthouse stood silent once more, and the only evidence of Mara’s visit was a single, water‑soaked photograph—its center a blur of blue light, as if the very darkness itself had been captured on film.</p>
+
+<p><i>Well, I know that I’m not sleeping tonight…</i></p>]]></content><author><name></name></author><category term="artificial-intelligence" /><category term="story" /><category term="comparision" /><category term="spooky" /><summary type="html"><![CDATA[In the Spirt of the Season… Why not have a good old fashioned spook off between OpenAIs ChatGPT and Proton’s Luma’s chat bots?]]></summary></entry><entry><title type="html">Welcome to My Portfilio</title><link href="http://localhost:4000/projects/welcome-to-my-portfilio/" rel="alternate" type="text/html" title="Welcome to My Portfilio" /><published>2025-10-02T14:10:00-04:00</published><updated>2025-10-02T14:10:00-04:00</updated><id>http://localhost:4000/projects/welcome-to-my-portfilio</id><content type="html" xml:base="http://localhost:4000/projects/welcome-to-my-portfilio/"><![CDATA[<h1 id="welcome-to-my-portfilio">Welcome to My Portfilio</h1>
+
+<p>Since you’re here why not check out some of my techincal writing samples? My portfilio includes:</p>
+<ul>
+  <li>a white paper</li>
+  <li>Gmail manual</li>
+  <li>before and after technical edits</li>
+  <li>Micosoft Word beginner tutorial</li>
+  <li>technical editing and writing QRCs</li>
+</ul>
+
+<p>… you can <a href="/assets/jordan-portfolio.pdf">get the PDF</a> directly.</p>
+
+<p>…or you can view my work samples from my <a href="https://github.com/jbrown307/techWriting_portfolio">GitHub</a></p>]]></content><author><name></name></author><category term="projects" /><category term="documentation" /><category term="technical-writing" /><category term="tutorials" /><summary type="html"><![CDATA[Welcome to My Portfilio]]></summary></entry><entry><title type="html">Welcome to My First Post</title><link href="http://localhost:4000/developer/log/Welcome-to-my-first-post/" rel="alternate" type="text/html" title="Welcome to My First Post" /><published>2025-10-02T14:05:00-04:00</published><updated>2025-10-02T14:05:00-04:00</updated><id>http://localhost:4000/developer/log/Welcome-to-my-first-post</id><content type="html" xml:base="http://localhost:4000/developer/log/Welcome-to-my-first-post/"><![CDATA[<h1 id="welcome-to-my-first-post">Welcome to My First Post!</h1>
+
+<p>Hello World! I thought I would kick things off by sharing some of the svgs that 
+I used in a <a href="https://www.freecodecamp.org/learn">freeCodeCamp</a> lab project. Enjoy!</p>
+
+<p><img src="/assets/api.svg" alt="API Image" />
+<img src="/assets/chrome-extension.svg" alt="Chrome Extenstion" />
+<img src="/assets/templates-library.svg" alt="Templates Library" /></p>
+
+<p>Pretty amazing stuff, am I right?</p>]]></content><author><name></name></author><category term="developer" /><category term="log" /><category term="illustrations visuals features" /><summary type="html"><![CDATA[Welcome to My First Post!]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-10-02T12:32:29-04:00</published><updated>2025-10-02T12:32:29-04:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-jekyll/"><![CDATA[<h1 id="welcome-to-jekyll">Welcome to Jekyll</h1>
+
+<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><category term="code" /><category term="snippets" /><category term="blogging" /><summary type="html"><![CDATA[Welcome to Jekyll]]></summary></entry></feed>
