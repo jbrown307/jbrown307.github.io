@@ -21,14 +21,13 @@
 title: Jordan Brown's Blog
 email: jordanbrown@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is just a learning project to help me learn the ins and outs of Jekyll. Not much to see here but thanks for visting!
+  This is just a learning project to help me learn the ins-and-outs of Jekyll. Not much to see here but thanks for visting!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jbrown307
-
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
@@ -51,3 +50,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+  

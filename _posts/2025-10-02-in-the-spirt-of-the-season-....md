@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "In the Spirt of the Season..."
+title: "In the Spirt of the Season..."
 date: 2025-10-02-14:15
-categories: artificial intelligence
+categories: artificial-intelligence
 tags: story comparision spooky
+permalink: /:categories/:title/
 ---
 
+# In the Spirt of the Season...
 Why not have a good old fashioned spook off between OpenAIs ChatGPT and Proton's Luma's chat bots?
 
 <i>Here's a scary story brought to you by none other than ChatGPT!</i>
